@@ -1,0 +1,9 @@
+CREATE DATABASE flask-backend;
+USE flask-backend;
+
+CREATE TABLE IF NOT EXISTS users(
+id INT AUTO_INCREMENT PRIMARY KEY DEFAULT NULL,
+name VARCHAR(125),
+address VARCHAR(175),
+role VARCHAR(25)
+);
