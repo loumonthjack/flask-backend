@@ -1,3 +1,3 @@
 # flask-backend
-mysql
+To Run: 
 python3 app.py
