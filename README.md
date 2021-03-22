@@ -1,7 +1,3 @@
 # flask-backend
-
-requirments: 
-mysql running (check by running: systemctl status mysql)
-pip3 install flask
-
+mysql
 python3 app.py
